@@ -43,7 +43,7 @@ public class LexBank {
         System.out.println(output);
 
     }
-
+//MYCKET att komplettera
     static void accountTransfer(double fromAcc, double toAcc,double amount)
     {
         int indexFromAcc=accounts.indexOf(fromAcc);
